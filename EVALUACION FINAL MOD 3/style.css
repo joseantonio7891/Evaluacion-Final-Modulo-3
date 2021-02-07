@@ -1,0 +1,20 @@
+.container{
+    margin-top: 2em;
+    margin-bottom: 3em;
+    border: 0.2em solid black;
+}
+
+body {
+    font-family: Arial;
+}
+
+h1{
+    background-color: rgb(53, 127, 211);
+    color: white;
+}
+
+button{
+    align-self:center;
+    color: white;
+    background-color: gray;
+}
